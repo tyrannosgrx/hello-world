@@ -1,2 +1,4 @@
 # hello-world
-Hallo Welt
+Hallo Welt!
+
+Ich teste zum ersten Mal GitHub.
